@@ -1,0 +1,37 @@
+[
+  {
+    "country_code": "ru",
+    "country_name": "Россия",
+    "lang_code": "ru"
+  },
+  {
+    "country_code": "us",
+    "country_name": "США",
+    "lang_code": "ru"
+  },
+  {
+    "country_code": "gb",
+    "country_name": "Англия",
+    "lang_code": "ru"
+  },
+  {
+    "country_code": "de",
+    "country_name": "Германия",
+    "lang_code": "de-de"
+  },
+  {
+    "country_code": "dk",
+    "country_name": "Дания",
+    "lang_code": "da-dk"
+  },
+  {
+    "country_code": "es",
+    "country_name": "Испания",
+    "lang_code": "es-es"
+  },
+  {
+    "country_code": "kz",
+    "country_name": "Казахстан",
+    "lang_code": "ru"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "country_code": "ru",
+    "country_name": "Россия",
+    "lang_code": "ru"
+  },
+  {
+    "country_code": "us",
+    "country_name": "США",
+    "lang_code": "en-us"
+  },
+  {
+    "country_code": "al",
+    "country_name": "Албания",
+    "lang_code": "sq"
+  },
+  {
+    "country_code": "ar",
+    "country_name": "Аргентина",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "at",
+    "country_name": "Австрия",
+    "lang_code": "de-at"
+  },
+  {
+    "country_code": "au",
+    "country_name": "Австралия",
+    "lang_code": "en-au"
+  },
+  {
+    "country_code": "az",
+    "country_name": "Азербайджан",
+    "lang_code": "az-a-azz"
+  },
+  {
+    "country_code": "bd",
+    "country_name": "Бангладеш",
+    "lang_code": "bn-bd"
+  },
+  {
+    "country_code": "be",
+    "country_name": "Бельгия-нидерл",
+    "lang_code": "nl"
+  },
+  {
+    "country_code": "be",
+    "country_name": "Бельгия-нем",
+    "lang_code": "de"
+  },
+  {
+    "country_code": "be",
+    "country_name": "Бельгия-франц",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "bg",
+    "country_name": "Болгария",
+    "lang_code": "bg"
+  },
+  {
+    "country_code": "br",
+    "country_name": "Бразилия",
+    "lang_code": "pt-br"
+  },
+  {
+    "country_code": "bs",
+    "country_name": "Багамы",
+    "lang_code": "en-us"
+  },
+  {
+    "country_code": "by",
+    "country_name": "Белорусский",
+    "lang_code": "be"
+  },
+  {
+    "country_code": "ca",
+    "country_name": "Канада-англ",
+    "lang_code": "en-ca"
+  },
+  {
+    "country_code": "ca",
+    "country_name": "Канада-фран",
+    "lang_code": "fr-ca"
+  },
+  {
+    "country_code": "ch",
+    "country_name": "Швейцария-нем",
+    "lang_code": "de"
+  },
+  {
+    "country_code": "ch",
+    "country_name": "Швейцария-франц",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "ch",
+    "country_name": "Швейцария-итал",
+    "lang_code": "it"
+  },
+  {
+    "country_code": "ci",
+    "country_name": "Кот-д'Ивуар",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "cl",
+    "country_name": "Чили",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "cm",
+    "country_name": "Камерун-фран",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "cm",
+    "country_name": "Камерун-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "co",
+    "country_name": "Колумбия",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "cr",
+    "country_name": "Коста-Рика",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "cy",
+    "country_name": "Кипр-грец",
+    "lang_code": "el-gr"
+  },
+  {
+    "country_code": "cy",
+    "country_name": "Кипр-турц",
+    "lang_code": "tr"
+  },
+  {
+    "country_code": "cz",
+    "country_name": "Чехия",
+    "lang_code": "cs-cz"
+  },
+  {
+    "country_code": "de",
+    "country_name": "Германия",
+    "lang_code": "de-de"
+  },
+  {
+    "country_code": "dk",
+    "country_name": "Дания",
+    "lang_code": "da-dk"
+  },
+  {
+    "country_code": "ec",
+    "country_name": "Эквадор",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "ee",
+    "country_name": "Эстония",
+    "lang_code": "et"
+  },
+  {
+    "country_code": "eg",
+    "country_name": "Египет",
+    "lang_code": "ar"
+  },
+  {
+    "country_code": "es",
+    "country_name": "Испания",
+    "lang_code": "es-es"
+  },
+  {
+    "country_code": "fi",
+    "country_name": "Финляндия",
+    "lang_code": "fi-fi"
+  },
+  {
+    "country_code": "fr",
+    "country_name": "Франция",
+    "lang_code": "fr-fr"
+  },
+  {
+    "country_code": "gb",
+    "country_name": "Англия",
+    "lang_code": "en-gb"
+  },
+  {
+    "country_code": "ge",
+    "country_name": "Грузия",
+    "lang_code": "ka-ge"
+  },
+  {
+    "country_code": "gh",
+    "country_name": "Гана",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "gp",
+    "country_name": "Гваделупа",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "gr",
+    "country_name": "Греция",
+    "lang_code": "el-gr"
+  },
+  {
+    "country_code": "hk",
+    "country_name": "Гонконг",
+    "lang_code": "zh-hk"
+  },
+  {
+    "country_code": "hn",
+    "country_name": "Гондурас",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "hr",
+    "country_name": "Хорватия",
+    "lang_code": "hr"
+  },
+  {
+    "country_code": "hu",
+    "country_name": "Венгрия",
+    "lang_code": "hu-hu"
+  },
+  {
+    "country_code": "id",
+    "country_name": "Индонезия",
+    "lang_code": "id"
+  },
+  {
+    "country_code": "ie",
+    "country_name": "Ирландия-ирланд",
+    "lang_code": "ga"
+  },
+  {
+    "country_code": "ie",
+    "country_name": "Ирландия-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "il",
+    "country_name": "Израиль",
+    "lang_code": "iw-il"
+  },
+  {
+    "country_code": "in",
+    "country_name": "Индия",
+    "lang_code": "hi-in"
+  },
+  {
+    "country_code": "ir",
+    "country_name": "Иран",
+    "lang_code": "fa-ir"
+  },
+  {
+    "country_code": "it",
+    "country_name": "Италия",
+    "lang_code": "it-it"
+  },
+  {
+    "country_code": "jp",
+    "country_name": "Япония",
+    "lang_code": "ja-jp"
+  },
+  {
+    "country_code": "kg",
+    "country_name": "Киргизтан",
+    "lang_code": "ky-kg"
+  },
+  {
+    "country_code": "kh",
+    "country_name": "Камбоджа",
+    "lang_code": "km-kh"
+  },
+  {
+    "country_code": "kr",
+    "country_name": "Корея",
+    "lang_code": "ko-kr"
+  },
+  {
+    "country_code": "kw",
+    "country_name": "Кувейт-араб",
+    "lang_code": "ar"
+  },
+  {
+    "country_code": "kw",
+    "country_name": "Кувейт-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "kz",
+    "country_name": "Казахстан",
+    "lang_code": "kz"
+  },
+  {
+    "country_code": "li",
+    "country_name": "Лихтенштейн",
+    "lang_code": "de"
+  },
+  {
+    "country_code": "lt",
+    "country_name": "Литва",
+    "lang_code": "lt"
+  },
+  {
+    "country_code": "lu",
+    "country_name": "Люксембург-люкс",
+    "lang_code": "lb"
+  },
+  {
+    "country_code": "lu",
+    "country_name": "Люксембург-фран",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "lu",
+    "country_name": "Люксембург-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "lv",
+    "country_name": "Латвия",
+    "lang_code": "lv"
+  },
+  {
+    "country_code": "md",
+    "country_name": "Молдавия",
+    "lang_code": "ro"
+  },
+  {
+    "country_code": "ml",
+    "country_name": "Мали",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "mn",
+    "country_name": "Монголия",
+    "lang_code": "mn-mn"
+  },
+  {
+    "country_code": "mq",
+    "country_name": "Мартиника",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "mt",
+    "country_name": "Мальта-мальт",
+    "lang_code": "mt"
+  },
+  {
+    "country_code": "mt",
+    "country_name": "Мальта-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "mx",
+    "country_name": "Мексика",
+    "lang_code": "es-us"
+  },
+  {
+    "country_code": "my",
+    "country_name": "Малайзия",
+    "lang_code": "ms-my"
+  },
+  {
+    "country_code": "ng",
+    "country_name": "Нигерия-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "nl",
+    "country_name": "Нидерланды",
+    "lang_code": "nl-nl"
+  },
+  {
+    "country_code": "no",
+    "country_name": "Норвегия",
+    "lang_code": "no-no"
+  },
+  {
+    "country_code": "np",
+    "country_name": "Непал",
+    "lang_code": "ne-np"
+  },
+  {
+    "country_code": "nz",
+    "country_name": "Новая Зеландия",
+    "lang_code": "en-nz"
+  },
+  {
+    "country_code": "pe",
+    "country_name": "Перу",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "ph",
+    "country_name": "Филиппины",
+    "lang_code": "fil"
+  },
+  {
+    "country_code": "pk",
+    "country_name": "Пакистан",
+    "lang_code": "ur"
+  },
+  {
+    "country_code": "pl",
+    "country_name": "Польский",
+    "lang_code": "pl-pl"
+  },
+  {
+    "country_code": "pr",
+    "country_name": "Пуэрто-Рико-исп",
+    "lang_code": "es-419"
+  },
+  {
+    "country_code": "pr",
+    "country_name": "Пуэрто-Рико-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "pt",
+    "country_name": "Португалия",
+    "lang_code": "pt-pt"
+  },
+  {
+    "country_code": "re",
+    "country_name": "Реюньон",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "ro",
+    "country_name": "Румыния",
+    "lang_code": "ro"
+  },
+  {
+    "country_code": "rs",
+    "country_name": "Сербия",
+    "lang_code": "sr"
+  },
+  {
+    "country_code": "sa",
+    "country_name": "Саудовская Аравия",
+    "lang_code": "ar"
+  },
+  {
+    "country_code": "se",
+    "country_name": "Швеция",
+    "lang_code": "sv-se"
+  },
+  {
+    "country_code": "sg",
+    "country_name": "Сингапур-англ",
+    "lang_code": "en"
+  },
+  {
+    "country_code": "sg",
+    "country_name": "Сингапур-китай",
+    "lang_code": "zh"
+  },
+  {
+    "country_code": "sg",
+    "country_name": "Сингапур-малайский",
+    "lang_code": "ms"
+  },
+  {
+    "country_code": "sg",
+    "country_name": "Сингапур-тамильский",
+    "lang_code": "ta"
+  },
+  {
+    "country_code": "sk",
+    "country_name": "Словацкая республика",
+    "lang_code": "sk"
+  },
+  {
+    "country_code": "sl",
+    "country_name": "Словения",
+    "lang_code": "sl"
+  },
+  {
+    "country_code": "sn",
+    "country_name": "Сенегал-франц",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "sn",
+    "country_name": "Сенегал-араб",
+    "lang_code": "ar"
+  },
+  {
+    "country_code": "th",
+    "country_name": "Таиланд",
+    "lang_code": "th"
+  },
+  {
+    "country_code": "tr",
+    "country_name": "Турция",
+    "lang_code": "tr-tr"
+  },
+  {
+    "country_code": "ua",
+    "country_name": "Украина",
+    "lang_code": "uk"
+  },
+  {
+    "country_code": "uz",
+    "country_name": "Узбекистан",
+    "lang_code": "uz"
+  },
+  {
+    "country_code": "vn",
+    "country_name": "Вьетнам",
+    "lang_code": "vi"
+  },
+  {
+    "country_code": "xk",
+    "country_name": "Косово-албанский",
+    "lang_code": "sq"
+  },
+  {
+    "country_code": "xk",
+    "country_name": "Косово-серб",
+    "lang_code": "sr"
+  },
+  {
+    "country_code": "yt",
+    "country_name": "Майотта",
+    "lang_code": "fr"
+  },
+  {
+    "country_code": "za",
+    "country_name": "ЮАР",
+    "lang_code": "en-za"
+  }
+]

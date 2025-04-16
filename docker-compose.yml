@@ -1,0 +1,24 @@
+# docker-compose.yml
+version: "3.2"
+
+services:
+  redis:
+    image: "redis:alpine"
+    command: /bin/sh -c "redis-server --requirepass $$REDIS_PASSWORD"
+    ports:
+      - "127.0.0.1:6379:6379"
+    volumes:
+      - redis-data:/data
+    env_file:
+      - .env
+
+  golang-app:
+    env_file:
+      - .env
+    build:
+      context: .
+    depends_on:
+      - redis
+
+volumes:
+  redis-data:
